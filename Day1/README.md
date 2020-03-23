@@ -21,19 +21,19 @@ The dataset used in the problem can be found here:
 
 [Covid 19 Dataset](input/time_series_2019-ncov-Confirmed.csv)
 
-[Continents](continents.csv)
+[Continents](input/continents.csv)
 
-## Outputs
+### Outputs
 
-### Country-wise Plot
+#### Country-wise Plot
 
 ![Country-wise plot](Assets/country-wise.png)
 
-### Date-wise Plot
+#### Date-wise Plot
 
 ![Date-wise plot](Assets/date-wise.png)
 
-### Continent-Wise Plot
+#### Continent-Wise Plot
 
 ![Date-wise plot](Assets/continent-wise.png)
 
