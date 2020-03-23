@@ -1,5 +1,7 @@
 # Day 1
 
+**Note: Interactive Outputs are not captured while saving the notebook, hence you need to run the notebook for them to work**
+
 ### Problem Statement
 
 On a particular date, If 70% number of confirmed case is zero, then Delete the column. i.e. whole February will be deleted and few more.
