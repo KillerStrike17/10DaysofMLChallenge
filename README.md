@@ -13,6 +13,10 @@ Please Check [Day1](Day1/) for solution
 
 ## [Day2](Day2/)
 
+### Problem Statement
 
+Titanic dataset cleaning+Feature Engineering and visualization only (Apply what you learned in Day1) 
 
+Please Check [Day2](Day2/) for solution
 
+## [Day3](Day3/)
