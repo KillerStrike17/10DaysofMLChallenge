@@ -7,8 +7,11 @@ To classify dogs and cats.
 ## Requirements
 
 `pip install tensorflow`
+
 `pip install matplitlib`
+
 `pip install scipy`
+
 `pip numpy`
 
 ## Approach
@@ -47,12 +50,12 @@ The Dataset can be found here : [Link](https://storage.googleapis.com/mledu-data
 
 **Input Data:**
 
-![InputImageGallery](Assets/Input_image.jpg)
+![InputImageGallery](Assets/Input_gallery.png)
 
 **Misclassified Images:**
 
-![Misclassified Images](Assets/Misclassified_images.jpg)
+![Misclassified Images](Assets/Misclassified_images.png)
 
 **GradCAM Output:**
 
-![GradCAM](Assets/GradCAM_output.jpg)
+![GradCAM](Assets/GradCAM_output.png)
