@@ -4,9 +4,9 @@
 
 Image Classification for Fashion MNIST Dataset
 
-[Notebook Link]()
+[Notebook Link](Day6_Fashion_MNIST_using_Custom_Model.ipynb)
 
-[Documentation]()
+[Documentation](TaskA.md)
 
 ## Task B
 
