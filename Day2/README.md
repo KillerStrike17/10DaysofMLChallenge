@@ -40,4 +40,4 @@ The dataset used in the problem can be found here:
 
 #### Cleaned Dataset
 
-![cleaned Dataset](Assets/data_after_cleaning.png)
+![cleaned Dataset](Assets/data_after%20_cleaning.png)
