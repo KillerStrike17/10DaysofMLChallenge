@@ -7,8 +7,11 @@ Analyze Toxicity of Comments.
 ## Requirements
 
 `pip install tensorflow`
+
 `pip install pandas`
+
 `pip install numpy`
+
 Configured TPU(Tensor Processing Unit)
 
 ## Dataset
