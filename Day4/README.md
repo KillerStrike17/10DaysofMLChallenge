@@ -42,9 +42,13 @@ Formed 10 Clusters
 **5D K Means Graphs**
 
 x = price_usd
+
 y = srch_booking_window
+
 z = srch_saturday_night_bool
+
 c = Cluster labels
+
 s = varied sizes based on srch_length_of_stay
 
 ![5D K Means](Assets/5DKMeans.png)
