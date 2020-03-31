@@ -32,6 +32,8 @@ To classify dogs and cats.
 
 The Dataset can be found here : [Link](https://storage.googleapis.com/mledu-datasets/cats_and_dogs_filtered.zip)
 
+Testing Images can be found [here](Assets/)
+
 ## Results
 
 ### Transfer Learning:
@@ -42,11 +44,13 @@ The Dataset can be found here : [Link](https://storage.googleapis.com/mledu-data
 
 ### Custom Model:
 
-* Model Parameters: 
+* Model Parameters: 306,881
 * Train Accuracy:
 * Test Accuracy: 
 
 ## Output Visualization
+
+### Using Transfer Learning
 
 **Input Data:**
 
@@ -59,3 +63,10 @@ The Dataset can be found here : [Link](https://storage.googleapis.com/mledu-data
 **GradCAM Output:**
 
 ![GradCAM](Assets/GradCAM_output.png)
+
+### Using Custom Models
+
+**Cutouts Added to Dataset**
+
+![Cutout Image](Assets/Input_Cutout_Gallery.png)
+
