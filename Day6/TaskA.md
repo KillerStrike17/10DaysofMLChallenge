@@ -1,4 +1,4 @@
-# Day 6 - Task B
+# Day 6 - Task A
 
 ## Problem Statement
 
