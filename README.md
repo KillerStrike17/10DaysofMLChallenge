@@ -40,4 +40,44 @@ Develop a model over Expedia Dataset
 
 To classify Dogs and Cats
 
-###
+## [Day6](Day6/)
+
+### Problem Statement
+
+**Task A:**
+
+Image Classification for Fashion MNIST Dataset
+
+**Task B:**
+
+Image Classification for Pneumonia X Ray Images
+
+## [Day7](Day7/)
+
+### Problem Statement
+
+**Task A:**
+
+Sentimental Analysis over IMDB Dataset
+
+**Task B:**
+
+Sentimental Analysis over Twitter Dataset
+
+## [Day8](Day8/)
+
+### Problem Statement
+
+**Task A:** 
+
+Document Clustering
+
+**Task B:**
+
+MultiClass Classification
+
+## [Day 9 & 10](Day9_and_10/)
+
+### Problem Statement
+
+Develop a project using Tensorflow JS.
