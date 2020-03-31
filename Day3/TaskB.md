@@ -1,4 +1,4 @@
-# Day3 - Task 2
+# Day3 - Task B
 
 ## Problem Statement
 
