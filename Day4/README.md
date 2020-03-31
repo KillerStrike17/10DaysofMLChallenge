@@ -37,7 +37,7 @@ Formed 10 Clusters
 
 **Elbow Curve**
 
-[Elbow Curve](Assets/Elbow_Curve.png)
+![Elbow Curve](Assets/Elbow_Curve.png)
 
 **5D K Means Graphs**
 
