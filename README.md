@@ -76,7 +76,7 @@ Document Clustering
 
 MultiClass Classification
 
-## [Day 9 & 10](Day9_and_10/)
+## [Day 9 & 10](Day9&10/)
 
 ### Problem Statement
 
