@@ -23,7 +23,7 @@ The dataset can be found under [here](https://www.kaggle.com/paultimothymooney/c
 * Loaded the Dataset.
 * Developed a DNN with Seperable Conv2D layers, BatchNorm(Faster Convergence) and Dropouts(Regularization Technique).
 * Reduce LR as an LR Scheduler and Trained the Model.
-* Developed Cycle LR as an LR Scheduler and Trained the Model.
+* Developed One Cycle LR as an LR Scheduler and Trained the Model.
 * Visualized the Accuracy- Loss Curve and Check for F1 Score.
 
 ## Results
