@@ -12,6 +12,6 @@ Implementing Multiclass Classification
 
 Clustering or grouping the documents based on the patterns and similarities.
 
-[Notebook]()
+[Notebook](Day8_Multiclass_Classification_Using_TPU.ipynb)
 
 [Documentation](TaskB.md)
