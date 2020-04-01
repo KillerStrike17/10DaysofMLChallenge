@@ -50,7 +50,7 @@ The dataset can be found under [here](https://www.kaggle.com/paultimothymooney/c
 
 **Dataset Gallery**
 
-![Input Image](Assets/input_gallery.png)
+![Input Image](Assets/input_gallery2.png)
 
 **Train - Test Curve Reduced LR**
 
