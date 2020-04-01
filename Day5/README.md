@@ -25,8 +25,10 @@ To classify dogs and cats.
 
 ### Using Custom Model
 
-
-
+* Lad Dataset
+* Develop the Model
+* Develop Cutout Augmentation Technique
+* Train the model with an LR Scheduler
 
 ## Dataset
 
@@ -45,8 +47,8 @@ Testing Images can be found [here](Assets/)
 ### Custom Model:
 
 * Model Parameters: 306,881
-* Train Accuracy:
-* Test Accuracy: 
+* Train Accuracy: 65.16%
+* Test Accuracy: 67.34%
 
 ## Output Visualization
 
@@ -69,4 +71,8 @@ Testing Images can be found [here](Assets/)
 **Cutouts Added to Dataset**
 
 ![Cutout Image](Assets/Input_Cutout_Gallery.png)
+
+**Accuracy-Loss Curve**
+
+![Accuracy_loss Curve](Assets/accuracy_loss_curve.png)
 
