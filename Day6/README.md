@@ -12,6 +12,6 @@ Image Classification for Fashion MNIST Dataset
 
 Image Classification for Pneumonia X Ray Images
 
-[Notebook Link]()
+[Notebook Link](Day_6_Pneumonia_Classification.ipynb)
 
-[Documentation]()
+[Documentation](TaskB.md)
