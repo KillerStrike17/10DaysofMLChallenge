@@ -1,0 +1,32 @@
+<html>
+  <head>
+    <!-- Load the latest version of TensorFlow.js -->
+    <script src="https://cdn.jsdelivr.net/npm/@tensorflow/tfjs"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@tensorflow-models/mobilenet"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@tensorflow-models/knn-classifier"></script>
+
+  </head>
+  <body>
+    
+    <!-- Add an image that we will use to test -->
+    <center><h1>Automatic Billing System</h1></center>
+    <center>
+      <video autoplay playsinline muted id="webcam" width="224" height="224"></video>
+    </center>
+      <hr>
+      <center>
+        <button id="Horlicks">Horlicks</button>
+        <button id="Bottle">Bottle</button>
+        <button id="Mobile">Mobile</button>
+        <button id="Headphones">Headphones</button>
+        <button id="Noobject">Nothing</button>
+        <hr>
+        <button id = "Checkout">checkout</button>
+        <button id = "reset">Reset</button>
+      </center>
+      
+    <!-- Load index.js after the content of the page -->
+    <script src="index.js"></script>
+    <div id="console"></div>
+  </body>
+</html>
