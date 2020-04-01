@@ -4,9 +4,9 @@
 
 Sentimental Analysis over IMDB Dataset
 
-[Notebook]()
+[Notebook](Day7_IMDB_Sentimental_Analysis_Using_TPU_.ipynb)
 
-[Documentation]()
+[Documentation](TaskA.md)
 
 ## Task B
 
