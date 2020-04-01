@@ -10,8 +10,8 @@ Implementing Multiclass Classification
 
 ## Task B
 
-Sentimental Analysis over Twitter Dataset
+Clustering or grouping the documents based on the patterns and similarities.
 
 [Notebook]()
 
-[Documentation]()
+[Documentation](TaskB.md)
