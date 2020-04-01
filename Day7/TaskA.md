@@ -30,7 +30,7 @@ The dataset can be found over [tensorflow site](https://www.tensorflow.org/api_d
 
 **Train Accuracy:** 98.37%
 
-**Test Accuracy:**86.07%
+**Test Accuracy:** 86.07%
 
 **Accuracy-Loss Curve**
 
