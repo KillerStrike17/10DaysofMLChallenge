@@ -1,5 +1,5 @@
 # 10DaysofMLChallenge
-This repo contains the solution for all the questions posted in this challenge
+This repo contains the solution for all the questions posted in this challenge hosted by Tensorflow UserGroup Mumbai
 
 ## [Day 1](Day1/)
 
