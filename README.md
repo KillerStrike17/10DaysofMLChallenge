@@ -24,7 +24,7 @@ Titanic dataset cleaning+Feature Engineering and visualization only (Apply what 
 1. Predict Loan Status
 2. Predict Rating
 
-**Task B:**
+**Task B(Solved): **
 
 Analyze Toxicity of Comments.
 
@@ -56,7 +56,7 @@ Image Classification for Pneumonia X Ray Images
 
 ### Problem Statement
 
-**Task A:**
+**Task A(Solved):**
 
 Sentimental Analysis over IMDB Dataset
 
@@ -72,7 +72,7 @@ Sentimental Analysis over Twitter Dataset
 
 Document Clustering
 
-**Task B:**
+**Task B(Solved):**
 
 MultiClass Classification
 
