@@ -1,23 +1,5 @@
 # Day3
 
-## Task A
-
-**Part 1:**
-
-Predict Loan Status
-
-[Notebook Link]()
-
-[Documentation]()
-
-**Part 2:**
-
-Predict Rating
-
-[Notebook Link]()
-
-[Documentation]()
-
 ## Task B
 
 Analyze Toxicity of Comments
