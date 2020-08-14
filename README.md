@@ -1,13 +1,12 @@
 <div align="center">
 <img src="Assets/TFUG_logo.jpg" >
 </div>
-
 <h1 align="center">10 Days of ML Challenge</h1>
-<h2 align="center">by TensorFlow Usergroup Mumbai</h2>
-
-This contains the solution for questions I solved which were posted in this challenge. It was a 10 Day event, everyday new problems were hosted targetting a new concept and segment of Machine Learning. We were asked to solve any one of those problems. This readme lists contains all the problems which were hosted, each heading will direct you to its individual page which will list the problem and its solution.
+<h2 align="center"><a href = "https://t.me/tfugmumbai">by TensorFlow Usergroup Mumbai</a></h2>
 
 ---
+
+This contains the solution for questions I solved which were posted in this challenge. It was a 10 Day event, everyday new problems were hosted targetting a new concept and segment of Machine Learning. We were asked to solve any one of those problems. This readme lists contains all the problems which were hosted, each heading will direct you to its individual page which will list the problem and its solution.
 
 ## [Day 1](Day1/)
 
@@ -19,76 +18,76 @@ This contains the solution for questions I solved which were posted in this chal
 
 ## [Day2](Day2/)
 
-### Problem Statement
+> ### Problem Statement
 
-Titanic dataset cleaning+Feature Engineering and visualization only (Apply what you learned in Day1) 
+>> Titanic dataset cleaning+Feature Engineering and visualization only (Apply what you learned in Day1) 
 
 ## [Day3](Day3/)
 
-### Problem Statement
+>### Problem Statement
 
-**Task A:**
+>>**Task A:**
 
-1. Predict Loan Status
-2. Predict Rating
+>>>1. Predict Loan Status
+>>>2. Predict Rating
 
-**Task B(Solved):**
+>>**Task B(Solved):**
 
-Analyze Toxicity of Comments.
+>>>Analyze Toxicity of Comments.
 
 ## [Day4](Day4/)
 
-### Problem Statement
+>### Problem Statement
 
-Develop a model over Expedia Dataset
+>>Develop a model over Expedia Dataset
 
 ## [Day5](Day5/)
 
-### Problem Statement
+>### Problem Statement
 
-To classify Dogs and Cats
+>>To classify Dogs and Cats
 
 ## [Day6](Day6/)
 
-### Problem Statement
+>### Problem Statement
 
-**Task A:**
+>>**Task A:**
 
-Image Classification for Fashion MNIST Dataset
+>>>Image Classification for Fashion MNIST Dataset
 
-**Task B:**
+>>**Task B(Solved):**
 
-Image Classification for Pneumonia X Ray Images
+>>>Image Classification for Pneumonia X Ray Images
 
 ## [Day7](Day7/)
 
-### Problem Statement
+>### Problem Statement
 
-**Task A(Solved):**
+>>**Task A(Solved):**
 
-Sentimental Analysis over IMDB Dataset
+>>>Sentimental Analysis over IMDB Dataset
 
-**Task B:**
+>>**Task B:**
 
-Sentimental Analysis over Twitter Dataset
+>>>Sentimental Analysis over Twitter Dataset
 
 ## [Day8](Day8/)
 
-### Problem Statement
+>### Problem Statement
 
-**Task A:** 
+>>**Task A:** 
 
-Document Clustering
+>>>Document Clustering
 
-**Task B(Solved):**
+>>**Task B(Solved):**
 
-MultiClass Classification
+>>>MultiClass Classification
 
 ## [Day 9 & 10](Day9&10/)
 
-### Problem Statement
+>### Problem Statement
 
-Develop a project using Tensorflow JS.
+>>Develop a project using Tensorflow JS.
 
 
 ---
