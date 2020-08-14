@@ -1,13 +1,21 @@
-# 10DaysofMLChallenge
-This repo contains the solution for questions I solved which were posted in this challenge hosted by Tensorflow UserGroup Mumbai
+<div align="center">
+<img src="Assets/TFUG_logo.jpg" >
+</div>
+
+<h1 align="center">10 Days of ML Challenge</h1>
+<h2 align="center">by TensorFlow Usergroup Mumbai</h2>
+
+This contains the solution for questions I solved which were posted in this challenge. It was a 10 Day event, everyday new problems were hosted targetting a new concept and segment of Machine Learning. We were asked to solve any one of those problems. This readme lists contains all the problems which were hosted, each heading will direct you to its individual page which will list the problem and its solution.
+
+---
 
 ## [Day 1](Day1/)
 
-#### Problem Statement
-On a particular date, If 70% number of confirmed case is zero, then Delete the column. i.e. whole February will be deleted and few more. Plot the graph
-* Country Wise
-* Date Wise
-* Continent Wise
+> ### Problem Statement
+>> On a particular date, If 70% number of confirmed case is zero, then Delete the column. i.e. whole February will be deleted and few more. Plot the graph
+>>> * Country Wise
+>>> * Date Wise
+>>> * Continent Wise
 
 ## [Day2](Day2/)
 
@@ -24,7 +32,7 @@ Titanic dataset cleaning+Feature Engineering and visualization only (Apply what 
 1. Predict Loan Status
 2. Predict Rating
 
-**Task B(Solved): **
+**Task B(Solved):**
 
 Analyze Toxicity of Comments.
 
@@ -81,3 +89,8 @@ MultiClass Classification
 ### Problem Statement
 
 Develop a project using Tensorflow JS.
+
+
+---
+
+<h3 align="center">Made with 💘 by Killerstrike</h3>
